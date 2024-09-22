@@ -1,3 +1,11 @@
+# Update da fork:
+
+Agora é possível compilar localmente
+
+Para instalar as dependências execute <code>./install.sh</code>
+
+Para converter para PDF execute <code>./compile.sh</code>. O documento de saída se chama <code>./out.pdf</code>
+
 # Artigos ABNT em Markdown
 
 Esse projeto é um template para a escrita de artigos científicos, seguindo as normas da ABNT (a maior parte delas, pelo menos), com Markdown e conversão automática para PDF (via Pandoc e Github Actions), além de versionamento por Git.
