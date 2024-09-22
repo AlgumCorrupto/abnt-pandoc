@@ -1,10 +1,10 @@
 # Update da fork:
 
-Agora é possível compilar localmente
+Agora é possível compilar localmente.
 
-Para instalar as dependências execute <code>./install.sh</code>
+Para instalar as dependências execute <code>./install.sh</code>.
 
-Para converter para PDF execute <code>./compile.sh</code>. O documento de saída se chama <code>./out.pdf</code>
+Para converter para PDF execute <code>./compile.sh</code>. O documento de saída se chama <code>./out.pdf</code>.
 
 # Artigos ABNT em Markdown
 
