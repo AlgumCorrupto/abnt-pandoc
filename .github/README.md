@@ -1,10 +1,12 @@
-# Update da fork:
+# Update da fork
 
 Agora é possível compilar localmente.
 
 Para instalar as dependências execute <code>./install.sh</code>.
 
 Para converter para PDF execute <code>./compile.sh</code>. O documento de saída se chama <code>./out.pdf</code>.
+
+Se estiver no Windows, recomendo o WSL ou um container Debian ou Ubuntu.
 
 # Artigos ABNT em Markdown
 
